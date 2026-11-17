@@ -1,0 +1,9 @@
+{
+  "product": "Course Audit Guide",
+  "version": "5.5.5",
+  "channel": "stable",
+  "updated": "2026-11-17",
+  "mirror_region": "global",
+  "auto_update": true,
+  "telemetry": false
+}
